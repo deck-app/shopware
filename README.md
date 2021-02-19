@@ -1,8 +1,3 @@
-Unterstützte Tags und entsprechende `Dockerfile` Links
-======================================================
-
- - [`latest` (*latest/Dockerfile*)](https://github.com/kurthuwig/docker-shopware/blob/master/Dockerfile)
-
 Was ist Shopware?
 =================
 
