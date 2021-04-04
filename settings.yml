@@ -61,4 +61,3 @@ system:
   ports:
     http:
       SHOPWARE_PORT
-    others:
